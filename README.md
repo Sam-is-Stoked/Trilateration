@@ -1,7 +1,7 @@
-# Trilateration-Triangulation
+# Trilateration
 
 <h3> Overview 
-<h5> The purpose of this project is to develop an easy method for indoor localization utilizing distance beacons. It currently can have   an input of as many beacons as you would like, however, it takes the three closest and uses them to calculate the point of the       device. 
+<h5> The purpose of this project is to develop an easy method for indoor localization utilizing distance beacons. It currently can have an input of as many beacons as you would like, however, it takes the three closest and uses them to calculate the point of the device. 
 <h5>
 This should be the output: 
 <img width="825" alt="Screen Shot 2021-12-14 at 9 12 21 AM" src="https://user-images.githubusercontent.com/95883134/146015035-3e45c55f-7a42-40e0-928a-db532541ba19.png">
